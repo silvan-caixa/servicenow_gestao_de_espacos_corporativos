@@ -1,0 +1,32 @@
+STEP 06 — CONSULTA DE DISPONIBILIDADE
+
+Criar a experiência de consulta de disponibilidade utilizando UI Builder.
+
+Criar uma Experience para permitir que o usuário consulte salas.
+
+Filtros:
+
+- Prédio;
+- Andar;
+- Data;
+- Horário;
+- Quantidade de participantes.
+
+A tela deverá possuir:
+
+1. Área de filtros.
+2. Área de resultados.
+3. Lista de salas disponíveis.
+4. Seleção de uma sala.
+5. Botão "Reservar sala".
+
+Fluxo:
+
+Usuário informa os filtros
+→ sistema apresenta as salas
+→ usuário seleciona uma sala
+→ usuário clica em "Reservar sala".
+
+Neste STEP priorizar a construção da interface e fluxo.
+
+Não implementar ainda todas as regras complexas de disponibilidade.
