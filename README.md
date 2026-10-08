@@ -1,5 +1,5 @@
-CONTEXTO GERAL DO PROJETO
-PROJETO: Gestão de Espaços Corporativos – Reserva de Salas
+# CONTEXTO GERAL DO PROJETO
+# PROJETO: Gestão de Espaços Corporativos – Reserva de Salas
 
 Estou desenvolvendo uma aplicação no ServiceNow para gerenciamento de espaços corporativos, inicialmente com foco em salas de reunião.
 
